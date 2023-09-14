@@ -1,0 +1,2 @@
+For the past three months, I have been here, where I learned Python, PySpark, SQL,
+and gained a solid understanding of AWS, Docker, and Ansible. Currently, I am a part of the LRL project
